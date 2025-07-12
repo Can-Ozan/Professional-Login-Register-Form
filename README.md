@@ -47,7 +47,7 @@ https://i.imgur.com/XYZ1234.png	https://i.imgur.com/ABC5678.png
 Klonlama:
 
 bash
-git clone https://github.com/sizin-kullanici-adiniz/modern-login.git
+git clone https://github.com/Can-Ozan/Professional-Login-Register-Form.git
 cd modern-login
 Tarayıcıda Açma:
 
