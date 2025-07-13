@@ -34,31 +34,20 @@ Sosyal Medya İkonları: Interaktif tasarım
 
 Arkaplan Elementleri: Yüzen animasyonlu daireler
 
-🔧 Teknolojiler
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white
-
-🎥 Demo Görüntüleri
-Login Ekranı	Register Ekranı
-https://i.imgur.com/XYZ1234.png	https://i.imgur.com/ABC5678.png
 ⚡ Hızlı Başlangıç
 Klonlama:
 
 bash
 git clone https://github.com/Can-Ozan/Professional-Login-Register-Form.git
 cd Professional-Login-Register-Form
-Tarayıcıda Açma:
 
+Tarayıcıda Açma:
 index.html dosyasını herhangi bir modern tarayıcıda açın
 
 Kullanım:
-
 "Kayıt Ol" butonuna tıklayarak register formuna geçiş yapın
 
 "Giriş Yap" butonu ile login formuna dönün
-
 Form alanlarını doldurup butonlarla etkileşime geçin
 
 🌍 Canlı Demo
@@ -82,7 +71,6 @@ Sosyal Medya Bağlantıları Ekleme:
 html
 <a href="FACEBOOK_LINK" class="social"><i class="fab fa-facebook-f"></i></a>
 📈 Performans
-https://i.imgur.com/PERF123.png
 
 Performance: 98%
 
