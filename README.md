@@ -48,7 +48,7 @@ Klonlama:
 
 bash
 git clone https://github.com/Can-Ozan/Professional-Login-Register-Form.git
-cd modern-login
+cd Professional-Login-Register-Form
 Tarayıcıda Açma:
 
 index.html dosyasını herhangi bir modern tarayıcıda açın
