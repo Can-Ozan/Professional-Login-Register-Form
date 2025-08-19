@@ -25,6 +25,13 @@ Arkaplan: Gradient mor-mavi
 
 Formlar: Yarı saydam beyaz with blur efekti
 
+## 🖼️ Project Screenshots
+
+### Login
+![SwiftNote Studio Interface](/images/arayüz1.png)
+### Register
+![SwiftNote Studio Interface](/images/arayüz2.png)
+
 🖥️ Arayüz Bileşenleri
 Form Alanları: Yuvarlak köşeli, hover efektli
 
